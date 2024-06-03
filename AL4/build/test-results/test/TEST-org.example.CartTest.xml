@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CartTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-03T18:31:55" hostname="LILI-PC" time="0.014">
+  <properties/>
+  <testcase name="testRemoveProduct()" classname="org.example.CartTest" time="0.011"/>
+  <testcase name="testAddMultipleProducts()" classname="org.example.CartTest" time="0.0"/>
+  <testcase name="testAddProductWithoutDiscount()" classname="org.example.CartTest" time="0.001"/>
+  <testcase name="testClearCart()" classname="org.example.CartTest" time="0.001"/>
+  <testcase name="testAddProductWithDiscount()" classname="org.example.CartTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
